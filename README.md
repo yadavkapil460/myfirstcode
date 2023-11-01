@@ -1,2 +1,4 @@
-# myfirstcode
-this is my first college repository
+#myfirstcode
+This is my first college repository
+Author - Kapil
+
